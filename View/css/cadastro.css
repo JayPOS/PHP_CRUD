@@ -1,0 +1,21 @@
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+#container500 {
+    width: 500px;
+}
+
+.margin-topo {
+    margin-top: 40px;
+}
+
+#botao {
+    background-color: #0C73E1;
+    color: white;
+    font-weight: bold;
+}
+
+#botao:hover {
+    background-color: #074FA1;
+}
